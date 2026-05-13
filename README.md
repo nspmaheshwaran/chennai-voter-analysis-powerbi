@@ -1,3 +1,4 @@
+<img width="1032" height="540" alt="5017" src="https://github.com/user-attachments/assets/2a485da0-6511-4654-8178-81e20248a3fb" />
 
 # Chennai Voter Insights Dashboard
 
