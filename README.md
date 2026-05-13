@@ -1,4 +1,4 @@
-<img width="1032" height="540" alt="5017" src="https://github.com/user-attachments/assets/2a485da0-6511-4654-8178-81e20248a3fb" />
+
 
 # Chennai Voter Insights Dashboard
 
@@ -22,7 +22,7 @@ To understand demographic distribution and constituency-wise voter patterns.
 - Power BI
 
 ## 📷 Dashboard Preview
-(Upload your image and drag it here)
+<img width="1032" height="540" alt="5017" src="https://github.com/user-attachments/assets/2a485da0-6511-4654-8178-81e20248a3fb" />
 
 ## 🚀 Learnings
 - Data cleaning
